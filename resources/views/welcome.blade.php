@@ -31,10 +31,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Al Was Here!
                 </div>
 
-                
+
             </div>
         </div>
     </body>
