@@ -14,6 +14,7 @@
         </style>
     </head>
     <body>
+        <h1>Blaine Did This</h1>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
